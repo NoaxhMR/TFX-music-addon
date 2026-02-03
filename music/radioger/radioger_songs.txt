@@ -1,0 +1,170 @@
+
+music_station = "radio_ger"
+
+music = {
+	song = "aufgutefreunde"
+    chance = {
+        factor = 1
+    }
+}
+
+music = {
+	song = "denkmal"
+    chance = {
+        factor = 1
+    }
+}
+
+music = {
+	song = "fischmob"
+    chance = {
+        factor = 1
+    }
+}
+
+music = {
+	song = "ganzwien"
+    chance = {
+        factor = 1
+    }
+}
+
+music = {
+	song = "heartindanger"
+    chance = {
+        factor = 1
+    }
+}
+
+music = {
+	song = "heuldoch"
+    chance = {
+        factor = 1
+    }
+}
+
+music = {
+	song = "hierkommtalex"
+    chance = {
+        factor = 1
+    }
+}
+
+music = {
+	song = "irgendwie"
+    chance = {
+        factor = 1
+    }
+}
+
+music = {
+	song = "99luftballons"
+    chance = {
+        factor = 1
+    }
+}
+
+music = {
+	song = "junge"
+    chance = {
+        factor = 1
+    }
+}
+
+music = {
+	song = "keiner"
+    chance = {
+        factor = 1
+    }
+}
+
+music = {
+	song = "kompliment"
+    chance = {
+        factor = 1
+    }
+}
+
+music = {
+	song = "manchmal"
+    chance = {
+        factor = 1
+    }
+}
+
+music = {
+	song = "monsun"
+    chance = {
+        factor = 1
+    }
+}
+
+music = {
+	song = "narcotic"
+    chance = {
+        factor = 1
+    }
+}
+
+music = {
+	song = "nieallein"
+    chance = {
+        factor = 1
+    }
+}
+
+music = {
+	song = "perfektewelle"
+    chance = {
+        factor = 1
+    }
+}
+
+music = {
+	song = "schusseindieluft"
+    chance = {
+        factor = 1
+    }
+}
+
+music = {
+	song = "wnuss"
+    chance = {
+        factor = 1
+    }
+}
+
+music = {
+	song = "antifascista"
+    chance = {
+        factor = 1
+    }
+}
+
+music = {
+	song = "deutschland"
+    chance = {
+        factor = 1
+    }
+}
+
+music = {
+	song = "majortom"
+    chance = {
+        factor = 1
+    }
+}
+
+music = {
+	song = "alleinallein"
+    chance = {
+        factor = 1
+    }
+}
+
+music = {
+	song = "skandal"
+    chance = {
+        factor = 1
+    }
+}

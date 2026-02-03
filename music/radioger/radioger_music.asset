@@ -1,0 +1,146 @@
+
+# MAIN THEME
+
+music = {
+	name = "aufgutefreunde"
+	file = "aufgutefreunde.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "denkmal"
+	file = "denkmal.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "fischmob"
+	file = "fischmob.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "ganzwien"
+	file = "ganzwien.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "heartindanger"
+	file = "heartindanger.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "heuldoch"
+	file = "heuldoch.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "hierkommtalex"
+	file = "hierkommtalex.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "irgendwie"
+	file = "irgendwie.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "99luftballons"
+	file = "99luftballons.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "junge"
+	file = "junge.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "keiner"
+	file = "keiner.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "kompliment"
+	file = "kompliment.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "manchmal"
+	file = "manchmal.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "monsun"
+	file = "monsun.ogg"
+	volume = 0.70
+}
+
+music = {
+	name = "narcotic"
+	file = "narcotic.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "nieallein"
+	file = "nieallein.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "perfektewelle"
+	file = "perfektewelle.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "schusseindieluft"
+	file = "schusseindieluft.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "wnuss"
+	file = "wnuss.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "antifascista"
+	file = "antifascista.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "deutschland"
+	file = "deutschland.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "majortom"
+	file = "majortom.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "alleinallein"
+	file = "alleinallein.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "skandal"
+	file = "skandal.ogg"
+	volume = 0.65
+}
