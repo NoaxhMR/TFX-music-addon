@@ -1,0 +1,592 @@
+
+# MAIN THEME
+
+music = {
+	name = "radiocapital"
+	file = "radiocapital.ogg"
+	volume = 0.60
+}
+
+music = {
+	name = "elmilagrodelsur"
+	file = "elmilagrodelsur.ogg"
+	volume = 0.75
+}
+
+music = {
+	name = "malditodolar"
+	file = "malditodolar.ogg"
+	volume = 0.75
+}
+
+music = {
+	name = "lavidamejor"
+	file = "lavidamejor.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "12ultraviolento"
+	file = "12ultraviolento.ogg"
+	volume = 0.60
+}
+
+music = {
+	name = "annajulia"
+	file = "annajulia.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "amimegustasustyle"
+	file = "amimegustasustyle.ogg"
+	volume = 0.60
+}
+
+music = {
+	name = "adioslepido"
+	file = "adioslepido.ogg"
+	volume = 0.60
+}
+
+music = {
+	name = "nosvamosinvadirsuapraia"
+	file = "nosvamosinvadirsuapraia.ogg"
+	volume = 0.60
+}
+
+music = {
+	name = "bailandosolo"
+	file = "bailandosolo.ogg"
+	volume = 0.60
+}
+
+music = {
+	name = "camilacamila"
+	file = "camilacamila.ogg"
+	volume = 0.60
+}
+
+music = {
+	name = "caballohomosexual"
+	file = "caballohomosexual.ogg"
+	volume = 0.60
+}
+
+music = {
+	name = "ciudadmagica"
+	file = "ciudadmagica.ogg"
+	volume = 0.60
+}
+
+music = {
+	name = "deja"
+	file = "deja.ogg"
+	volume = 0.60
+}
+
+music = {
+	name = "devuelvemeamichica"
+	file = "devuelvemeamichica.ogg"
+	volume = 0.60
+}
+
+music = {
+	name = "bigbang"
+	file = "bigbang.ogg"
+	volume = 0.80
+}
+
+music = {
+	name = "diasdeluta"
+	file = "diasdeluta.ogg"
+	volume = 0.60
+}
+
+music = {
+	name = "prejuicios"
+	file = "prejuicios.ogg"
+	volume = 0.60
+}
+
+music = {
+	name = "eres"
+	file = "eres.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "fe"
+	file = "fe.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "enamoradotuyo"
+	file = "enamoradotuyo.ogg"
+	volume = 0.55
+}
+
+music = {
+	name = "exagerado"
+	file = "exagerado.ogg"
+	volume = 0.60
+}
+
+music = {
+	name = "enlaciudaddelafuria"
+	file = "enlaciudaddelafuria.ogg"
+	volume = 0.60
+}
+
+music = {
+	name = "noexistes"
+	file = "noexistes.ogg"
+	volume = 0.60
+}
+
+music = {
+	name = "brasil"
+	file = "brasil.ogg"
+	volume = 0.75
+}
+
+music = {
+	name = "cobarde"
+	file = "cobarde.ogg"
+	volume = 0.68
+}
+
+music = {
+	name = "lafuerzadelamor"
+	file = "lafuerzadelamor.ogg"
+	volume = 0.60
+}
+
+music = {
+	name = "maldita"
+	file = "maldita.ogg"
+	volume = 0.60
+}
+
+music = {
+	name = "meadora"
+	file = "meadora.ogg"
+	volume = 0.60
+}
+
+music = {
+	name = "miedo"
+	file = "miedo.ogg"
+	volume = 0.80
+}
+
+music = {
+	name = "mulherdefases"
+	file = "mulherdefases.ogg"
+	volume = 0.75
+}
+
+music = {
+	name = "meuerro"
+	file = "meuerro.ogg"
+	volume = 0.60
+}
+
+music = {
+	name = "terapia"
+	file = "terapia.ogg"
+	volume = 0.80
+}
+
+music = {
+	name = "pachuco"
+	file = "pachuco.ogg"
+	volume = 0.60
+}
+
+music = {
+	name = "pobredeti"
+	file = "pobredeti.ogg"
+	volume = 0.80
+}
+
+music = {
+	name = "pedazos"
+	file = "pedazos.ogg"
+	volume = 0.80
+}
+
+music = {
+	name = "hoyyanoespero"
+	file = "hoyyanoespero.ogg"
+	volume = 0.75
+}
+
+music = {
+	name = "californica"
+	file = "californica.ogg"
+	volume = 0.75
+}
+
+music = {
+	name = "macrame"
+	file = "macrame.ogg"
+	volume = 0.75
+}
+
+music = {
+	name = "pervertpop"
+	file = "pervertpop.ogg"
+	volume = 0.75
+}
+
+music = {
+	name = "ausencia"
+	file = "ausencia.ogg"
+	volume = 0.75
+}
+
+music = {
+	name = "disculpemeusted"
+	file = "disculpemeusted.ogg"
+	volume = 0.75
+}
+
+music = {
+	name = "porella"
+	file = "porella.ogg"
+	volume = 0.75
+}
+
+music = {
+	name = "pantaletasnegras"
+	file = "pantaletasnegras.ogg"
+	volume = 0.75
+}
+
+music = {
+	name = "saborachocolate"
+	file = "saborachocolate.ogg"
+	volume = 0.75
+}
+
+music = {
+	name = "entrecanibales"
+	file = "entrecanibales.ogg"
+	volume = 0.75
+}
+
+music = {
+	name = "encuentroenelrio"
+	file = "encuentroenelrio.ogg"
+	volume = 0.75
+}
+
+music = {
+	name = "amoreslejanos"
+	file = "amoreslejanos.ogg"
+	volume = 0.75
+}
+
+music = {
+	name = "pegandoabajo"
+	file = "pegandoabajo.ogg"
+	volume = 0.75
+}
+
+music = {
+	name = "jijiji"
+	file = "jijiji.ogg"
+	volume = 0.75
+}
+
+music = {
+	name = "astrometra"
+	file = "astrometra.ogg"
+	volume = 0.75
+}
+
+music = {
+	name = "indecente"
+	file = "indecente.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "missionarios"
+	file = "missionarios.ogg"
+	volume = 0.75
+}
+
+music = {
+	name = "ratosnopoder"
+	file = "ratosnopoder.ogg"
+	volume = 0.75
+}
+
+music = {
+	name = "quimeras"
+	file = "quimeras.ogg"
+	volume = 0.75
+}
+
+music = {
+	name = "aindagostodela"
+	file = "aindagostodela.ogg"
+	volume = 0.75
+}
+
+music = {
+	name = "estrechezdecorazon"
+	file = "estrechezdecorazon.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "proximaentrega"
+	file = "proximaentrega.ogg"
+	volume = 0.60
+}
+
+music = {
+	name = "quepaiseeste"
+	file = "quepaiseeste.ogg"
+	volume = 0.60
+}
+
+music = {
+	name = "adiosamor"
+	file = "adiosamor.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "shakiraysusamigas"
+	file = "shakiraysusamigas.ogg"
+	volume = 0.60
+}
+
+music = {
+	name = "florecitarockera"
+	file = "florecitarockera.ogg"
+	volume = 0.60
+}
+
+music = {
+	name = "tempoperdido"
+	file = "tempoperdido.ogg"
+	volume = 0.60
+}
+
+music = {
+	name = "todaformadepoder"
+	file = "todaformadepoder.ogg"
+	volume = 0.60
+}
+
+music = {
+	name = "matatetete"
+	file = "matatetete.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "trenalsur"
+	file = "trenalsur.ogg"
+	volume = 0.60
+}
+
+music = {
+	name = "tricicloperu"
+	file = "tricicloperu.ogg"
+	volume = 0.60
+}
+
+music = {
+	name = "tualmamiaadelita"
+	file = "tualmamiaadelita.ogg"
+	volume = 0.60
+}
+
+music = {
+	name = "tormento"
+	file = "tormento.ogg"
+	volume = 0.60
+}
+
+music = {
+	name = "barrioestacion"
+	file = "barrioestacion.ogg"
+	volume = 0.75
+}
+
+music = {
+	name = "vayansetodosamama"
+	file = "vayansetodosamama.ogg"
+	volume = 0.60
+}
+
+music = {
+	name = "yendoalacasadedamian"
+	file = "yendoalacasadedamian.ogg"
+	volume = 0.60
+}
+music = {
+	name = "sevos"
+	file = "sevos.ogg"
+	volume = 0.75
+}
+music = {
+	name = "elartista"
+	file = "elartista.ogg"
+	volume = 0.75
+}
+music = {
+	name = "almendra"
+	file = "almendra.ogg"
+	volume = 0.75
+}
+music = {
+	name = "nadasigueigual"
+	file = "nadasigueigual.ogg"
+	volume = 0.75
+}
+music = {
+	name = "olharpratras"
+	file = "olharpratras.ogg"
+	volume = 0.75
+}
+music = {
+	name = "homemprimata"
+	file = "homemprimata.ogg"
+	volume = 0.75
+}
+music = {
+	name = "heroidofuturo"
+	file = "heroidofuturo.ogg"
+	volume = 0.75
+}
+music = {
+	name = "estocolmo"
+	file = "estocolmo.ogg"
+	volume = 0.75
+}
+music = {
+	name = "pombero"
+	file = "pombero.ogg"
+	volume = 0.75
+}
+music = {
+	name = "porsiempre"
+	file = "porsiempre.ogg"
+	volume = 0.75
+}
+
+music = {
+	name = "malaventurados"
+	file = "malaventurados.ogg"
+	volume = 0.75
+}
+
+music = {
+	name = "arreglameelalma"
+	file = "arreglameelalma.ogg"
+	volume = 0.75
+}
+
+music = {
+	name = "99dosmil"
+	file = "99dosmil.ogg"
+	volume = 0.80
+}
+
+music = {
+	name = "terca"
+	file = "terca.ogg"
+	volume = 0.80
+}
+
+music = {
+	name = "agoraeusei"
+	file = "agoraeusei.ogg"
+	volume = 0.80
+}
+
+music = {
+	name = "galileo"
+	file = "galileo.ogg"
+	volume = 0.80
+}
+
+music = {
+	name = "lomalodeserbueno"
+	file = "lomalodeserbueno.ogg"
+	volume = 0.80
+}
+
+music = {
+	name = "pendulocaotico"
+	file = "pendulocaotico.ogg"
+	volume = 0.80
+}
+
+music = {
+	name = "aloha"
+	file = "aloha.ogg"
+	volume = 0.80
+}
+
+music = {
+	name = "algoquedecirte"
+	file = "algoquedecirte.ogg"
+	volume = 0.80
+}
+
+music = {
+	name = "meiramejor"
+	file = "meiramejor.ogg"
+	volume = 0.80
+}
+
+music = {
+	name = "don"
+	file = "don.ogg"
+	volume = 0.80
+}
+
+music = {
+	name = "ultimafiesta"
+	file = "ultimafiesta.ogg"
+	volume = 0.80
+}
+
+music = {
+	name = "concorazon"
+	file = "concorazon.ogg"
+	volume = 0.80
+}
+
+music = {
+	name = "caracorreria"
+	file = "caracorreria.ogg"
+	volume = 0.80
+}
+
+music = {
+	name = "tontomperigosa"
+	file = "tontomperigosa.ogg"
+	volume = 0.80
+}
+
+music = {
+	name = "delirios"
+	file = "delirios.ogg"
+	volume = 0.80
+}
+
+music = {
+	name = "delicia"
+	file = "delicia.ogg"
+	volume = 0.80
+}
