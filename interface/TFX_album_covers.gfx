@@ -514,6 +514,98 @@
 			texturefile = "gfx/TFX_album_covers/TFR_brasil.png"
 			legacy_lazy_load = no
 		}
+		spriteType = {
+			name = "GFX_TFR_medellin"
+			texturefile = "gfx/TFX_album_covers/TFR_medellin.png"
+			legacy_lazy_load = no
+		}
+		spriteType = {
+			name = "GFX_TFR_31minutos"
+			texturefile = "gfx/TFX_album_covers/TFR_31minutos.png"
+			legacy_lazy_load = no
+		}
+		spriteType = {
+			name = "GFX_TFR_99dosmil"
+			texturefile = "gfx/TFX_album_covers/TFR_99dosmil.png"
+			legacy_lazy_load = no
+		}
+		spriteType = {
+			name = "GFX_TFR_agoraeusei"
+			texturefile = "gfx/TFX_album_covers/TFR_agoraeusei.png"
+			legacy_lazy_load = no
+		}
+		spriteType = {
+			name = "GFX_TFR_galileo"
+			texturefile = "gfx/TFX_album_covers/TFR_galileo.png"
+			legacy_lazy_load = no
+		}
+
+		spriteType = {
+			name = "GFX_TFR_algoquedecirte"
+			texturefile = "gfx/TFX_album_covers/TFR_algoquedecirte.png"
+			legacy_lazy_load = no
+		}
+
+		spriteType = {
+			name = "GFX_TFR_meiramejor"
+			texturefile = "gfx/TFX_album_covers/TFR_meiramejor.png"
+			legacy_lazy_load = no
+		}
+
+		spriteType = {
+			name = "GFX_TFR_don"
+			texturefile = "gfx/TFX_album_covers/TFR_don.png"
+			legacy_lazy_load = no
+		}
+
+		spriteType = {
+			name = "GFX_TFR_ultimafiesta"
+			texturefile = "gfx/TFX_album_covers/TFR_ultimafiesta.png"
+			legacy_lazy_load = no
+		}
+
+		spriteType = {
+			name = "GFX_TFR_aloha"
+			texturefile = "gfx/TFX_album_covers/TFR_aloha.png"
+			legacy_lazy_load = no
+		}
+
+		spriteType = {
+			name = "GFX_TFR_concorazon"
+			texturefile = "gfx/TFX_album_covers/TFR_concorazon.png"
+			legacy_lazy_load = no
+		}
+
+		spriteType = {
+			name = "GFX_TFR_caracorreria"
+			texturefile = "gfx/TFX_album_covers/TFR_caracorreria.png"
+			legacy_lazy_load = no
+		}
+
+		spriteType = {
+			name = "GFX_TFR_tontomperigosa"
+			texturefile = "gfx/TFX_album_covers/TFR_tontomperigosa.png"
+			legacy_lazy_load = no
+		}
+
+		spriteType = {
+			name = "GFX_TFR_delirios"
+			texturefile = "gfx/TFX_album_covers/TFR_delirios.png"
+			legacy_lazy_load = no
+		}
+
+		spriteType = {
+			name = "GFX_TFR_delicia"
+			texturefile = "gfx/TFX_album_covers/TFR_delicia.png"
+			legacy_lazy_load = no
+		}
+
+		spriteType = {
+			name = "GFX_TFR_bigbang"
+			texturefile = "gfx/TFX_album_covers/TFR_bigbang.png"
+			legacy_lazy_load = no
+		}
+
     spriteType = {
 			name = "GFX_TFX_skandal"
 			texturefile = "gfx/TFX_album_covers/TFX_skandal.png"
@@ -627,6 +719,11 @@
 	spriteType = {
 			name = "GFX_TFX_alleinallein"
 			texturefile = "gfx/TFX_album_covers/TFX_alleinallein.png"
+			legacy_lazy_load = no
+		}
+	spriteType = {
+			name = "GFX_TFX_rasa"
+			texturefile = "gfx/TFX_album_covers/TFX_rasa.png"
 			legacy_lazy_load = no
 		}
 	}
