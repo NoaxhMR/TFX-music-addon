@@ -86,6 +86,12 @@ music = {
 }
 
 music = {
+	name = "rasa"
+	file = "rasa.ogg"
+	volume = 0.80
+}
+
+music = {
 	name = "narcotic"
 	file = "narcotic.ogg"
 	volume = 0.65
