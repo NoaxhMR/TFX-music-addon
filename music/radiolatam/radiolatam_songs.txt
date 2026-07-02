@@ -20,34 +20,7 @@ music = {
 }
 
 music = {
-	song = "elmilagrodelsur"
-	chance = {
-		modifier = {
-			factor = 0.5
-		}		
-	}
-}
-
-music = {
-	song = "lavidamejor"
-	chance = {
-		modifier = {
-			factor = 0.5
-		}		
-	}
-}
-
-music = {
 	song = "12ultraviolento"
-	chance = {
-		modifier = {
-			factor = 0.5
-		}		
-	}
-}
-
-music = {
-	song = "adioslepido"
 	chance = {
 		modifier = {
 			factor = 0.5
@@ -119,6 +92,15 @@ music = {
 }
 
 music = {
+	song = "mariana"
+	chance = {
+		modifier = {
+			factor = 0.5
+		}		
+	}
+}
+
+music = {
 	song = "meuerro"
 	chance = {
 		modifier = {
@@ -165,6 +147,24 @@ music = {
 
 music = {
 	song = "pendulocaotico"
+	chance = {
+		modifier = {
+			factor = 0.5
+		}		
+	}
+}
+
+music = {
+	song = "pecado"
+	chance = {
+		modifier = {
+			factor = 0.5
+		}		
+	}
+}
+
+music = {
+	song = "anttonias"
 	chance = {
 		modifier = {
 			factor = 0.5
@@ -246,6 +246,15 @@ music = {
 
 music = {
 	song = "diasdeluta"
+	chance = {
+		modifier = {
+			factor = 0.5
+		}		
+	}
+}
+
+music = {
+	song = "seupereira"
 	chance = {
 		modifier = {
 			factor = 0.5
@@ -605,6 +614,15 @@ music = {
 }
 
 music = {
+	song = "yanoestoy"
+	chance = {
+		modifier = {
+			factor = 0.5
+		}		
+	}
+}
+
+music = {
 	song = "pervertpop"
 	chance = {
 		modifier = {
@@ -821,6 +839,15 @@ music = {
 }
 
 music = {
+	song = "acaso"
+	chance = {
+		modifier = {
+			factor = 0.5
+		}		
+	}
+}
+
+music = {
 	song = "pombero"
 	chance = {
 		modifier = {
@@ -876,6 +903,15 @@ music = {
 
 music = {
 	song = "algoquedecirte"
+	chance = {
+		modifier = {
+			factor = 0.5
+		}		
+	}
+}
+
+music = {
+	song = "torpe"
 	chance = {
 		modifier = {
 			factor = 0.5

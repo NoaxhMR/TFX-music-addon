@@ -8,21 +8,15 @@ music = {
 }
 
 music = {
-	name = "elmilagrodelsur"
-	file = "elmilagrodelsur.ogg"
-	volume = 0.75
-}
-
-music = {
 	name = "malditodolar"
 	file = "malditodolar.ogg"
 	volume = 0.75
 }
 
 music = {
-	name = "lavidamejor"
-	file = "lavidamejor.ogg"
-	volume = 0.65
+	name = "yanoestoy"
+	file = "yanoestoy.ogg"
+	volume = 0.80
 }
 
 music = {
@@ -40,12 +34,6 @@ music = {
 music = {
 	name = "amimegustasustyle"
 	file = "amimegustasustyle.ogg"
-	volume = 0.60
-}
-
-music = {
-	name = "adioslepido"
-	file = "adioslepido.ogg"
 	volume = 0.60
 }
 
@@ -588,5 +576,41 @@ music = {
 music = {
 	name = "delicia"
 	file = "delicia.ogg"
+	volume = 0.80
+}
+
+music = {
+	name = "mariana"
+	file = "mariana.ogg"
+	volume = 0.80
+}
+
+music = {
+	name = "acaso"
+	file = "acaso.ogg"
+	volume = 0.80
+}
+
+music = {
+	name = "pecado"
+	file = "pecado.ogg"
+	volume = 0.80
+}
+
+music = {
+	name = "torpe"
+	file = "torpe.ogg"
+	volume = 0.80
+}
+
+music = {
+	name = "anttonias"
+	file = "anttonias.ogg"
+	volume = 0.80
+}
+
+music = {
+	name = "seupereira"
+	file = "seupereira.ogg"
 	volume = 0.80
 }
