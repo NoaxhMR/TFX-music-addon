@@ -290,15 +290,6 @@ music = {
 }
 
 music = {
-	song = "enamoradotuyo"
-	chance = {
-		modifier = {
-			factor = 0.5
-		}		
-	}
-}
-
-music = {
 	song = "lomalodeserbueno"
 	chance = {
 		modifier = {
